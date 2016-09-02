@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/shaalx/jsnm"
+	"github.com/toukii/jsnm"
 )
 
 func main() {
