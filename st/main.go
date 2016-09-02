@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/shaalx/goutils"
-	"github.com/shaalx/jsnm"
+	"github.com/toukii/goutils"
+	"github.com/toukii/jsnm"
 	"net/url"
 )
 
